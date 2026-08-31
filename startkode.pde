@@ -1,4 +1,4 @@
-float x = 100;
+float x = 1000;
 
 void setup() {
   size(600, 400);
